@@ -1,11 +1,9 @@
 #EXTM3U
 #EXT-X-VERSION:3
-
 # ==========================================
 # SOURCE: TIVIKU69 APK FILM COLLECTION
 # The Great Flood (2025) dubbing
 # ==========================================
-
 #EXT-X-STREAM-INF:BANDWIDTH=414000,RESOLUTION=426x240
 https://raw.githubusercontent.com/tiviku69/film/refs/heads/tiv10/zq77/24tiviku69.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=1128000,RESOLUTION=854x480
